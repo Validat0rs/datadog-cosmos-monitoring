@@ -116,6 +116,8 @@ make cosmos-peers
 
 ### Sommelier
 
+Scripts for [Sommelier](https://www.sommelier.finance).
+
 #### Balance Check
 
 To check the sommelier orchestrator balance, run:
@@ -146,7 +148,7 @@ make cosmos-sommelier-orchestrator-balance-check
 
 ### THORChain
 
-THORChain specific scripts.
+Scripts for [THORChain](https://thorchain.com).
 
 #### Bond
 
